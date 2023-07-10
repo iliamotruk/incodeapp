@@ -13,7 +13,7 @@ SECRET_JWT=
 EXPIRE_JWT=8600000
 ADMIN_PASSWORD="123"
 
-clone repo - git clone https://github.com/iliailiaxxx/login-app.git
+clone repo - git clone https://github.com/iliamotruk/incodeapp.git
 
 install - npm install
 
